@@ -1,11 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 CabañasParaTodos es tu pagina web de confianza para encontrar y reservar la cabaña perfecta para tus vacaciones. Con una amplia selección de cabañas en todo Córdoba, estamos comprometidos a ayudarte a encontrar el alojamiento ideal para tu próximo viaje. 
 
